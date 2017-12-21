@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleIdentifier</key>
+	<string>json-schema-validation</string>
+	<key>CFBundleName</key>
+	<string>JSON Schema Validation</string>
+	<key>DocSetPlatformFamily</key>
+	<string>json-schema-validation</string>
+	<key>isDashDocset</key> <true/>
+    <key>DashDocSetFallbackURL</key>
+    <string>http://json-schema.org/latest/json-schema-validation.html</string>
+</dict>
+</plist>
