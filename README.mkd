@@ -1,0 +1,4 @@
+# JSON Schema Validation Dash docset
+
+To install in Zeal, use the feed
+`https://raw.githubusercontent.com/yanick/dash-json-schema-validation/master/json-schema-validation.xml`
